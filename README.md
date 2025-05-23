@@ -69,7 +69,7 @@ The personality assessments helped me appreciate my natural tendencies and how t
 
 ## Section 4: Creating a CV
 
-### [Creating a CV](./creating-a-cv.png)
+### [Creating a CV](./creating-a-cv.PNG)
 
 ---
 

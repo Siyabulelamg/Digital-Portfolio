@@ -2,7 +2,7 @@
 Digital Portfolio for Work Readiness Training
 ## Section 1: Career Counselling
 
-### [Career Counselling (PDF)](./career-counselling.pdf)
+### [Career Counselling](./career-counselling.pdf)
 
 ---
 
@@ -24,7 +24,7 @@ I now have a career development plan that paves the way for my future. The proce
 
 ## Section 2: Skills and Interests
 
-###  [Skills and Interests (PDF)](./skills-and-interests.pdf)
+###  [Skills and Interests](./skills-and-interests.pdf)
 
 ---
 
@@ -47,7 +47,7 @@ I now confidently articulate my strengths in interviews and CVs. I’ve learned 
 
 ## Section 3: Personality Assessment
 
-### [Personality Assessment (PDF)](./personality-assessment.pdf)
+### [Personality Assessment](./personality-assessment.pdf)
 
 ---
 
@@ -69,7 +69,7 @@ The personality assessments helped me appreciate my natural tendencies and how t
 
 ## Section 4: Creating a CV
 
-### [Creating a CV (PDF)](./creating-a-cv.pdf)
+### [Creating a CV](./creating-a-cv.png)
 
 ---
 
@@ -91,7 +91,7 @@ The final CV looks clean, professional, and acts as a strong marketing tool for 
 
 ## Section 5: CV Submission
 
-### [CV Submission (PDF)](./cv-submission.pdf)
+### [CV Submission](./cv-submission.pdf)
 
 ---
 
